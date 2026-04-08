@@ -7,20 +7,19 @@ It allows users to perform basic file operations like creating, reading, updatin
 The project is menu-driven and easy to use, making it ideal for beginners to understand file handling concepts in Python.
 
 🚀 Features<br>
-Create a new file
-Read contents of a file
-Update file (rename, overwrite, append)
-Delete a file
-Displays all files and folders in the current directory
+Create a new file<br>
+Read contents of a file<br>
+Update file (rename, overwrite, append)<br>
+Delete a file<br>
+Displays all files and folders in the current directory<br>
 
-🛠️ Technologies Used
-Python
-Built-in modules:
-os
-pathlib
+🛠️ Technologies Used<br>
+Python<br>
+Built-in modules:<br>
+os<br>
+pathlib<br>
 
-📋 Menu Options
-
+📋 Menu Options<br>
 When you run the program, you will see:
 1. Creating a File
 2. Reading a File
