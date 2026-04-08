@@ -31,20 +31,20 @@ When you run the program, you will see:
 
 🔧 Functional Overview
 
-1. Create File
-Enter file name
-Add content
-File gets created if it doesn’t already exist
+1. Create File<br>
+Enter file name<br>
+Add content<br>
+File gets created if it doesn’t already exist<br>
 
-2. Read File
-Displays content of selected file
+2. Read File<br>
+Displays content of selected file<br>
 
-3. Update File
-Rename file
-Overwrite content
-Append content
+3. Update File<br>
+Rename file<br>
+Overwrite content<br>
+Append content<br>
 
-4. Delete File
+4. Delete File<br>
 Permanently deletes the selected file<br>
 
 ⚠️ Error Handling<br>
