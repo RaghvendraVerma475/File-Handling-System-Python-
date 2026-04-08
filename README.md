@@ -6,7 +6,7 @@ It allows users to perform basic file operations like creating, reading, updatin
 
 The project is menu-driven and easy to use, making it ideal for beginners to understand file handling concepts in Python.
 
-🚀 Features
+🚀 Features<br>
 Create a new file
 Read contents of a file
 Update file (rename, overwrite, append)
