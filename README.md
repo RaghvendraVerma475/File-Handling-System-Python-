@@ -45,16 +45,16 @@ Overwrite content
 Append content
 
 4. Delete File
-Permanently deletes the selected file
+Permanently deletes the selected file<br>
 
-⚠️ Error Handling
-Handles invalid inputs
-Checks if file exists before operations
-Displays error messages if something goes wrong
+⚠️ Error Handling<br>
+Handles invalid inputs<br>
+Checks if file exists before operations<br>
+Displays error messages if something goes wrong<br>
 
 
-👤 Author
+👤 Author<br>
 Raghvendra Verma
-
-📌 Note
+<br>
+📌 Note<br>
 This project is for learning purposes and demonstrates basic file handling operations in Python.
